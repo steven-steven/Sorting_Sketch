@@ -9,7 +9,7 @@ Animated process of Insertion sort.
 2. The program displays current step instruction in the pseudo-code and a diagram to show where each elements are in the sorted and unsorted list.
 3. Users press keys to progress to next steps to see how their numbers are sorted by insertion sort.
 
-![init page](https://github.com/steven-steven/Sorting_Sketch/blob/master/Capture.PNG | width=20)
-![main page](https://github.com/steven-steven/Sorting_Sketch/blob/master/Capture2.PNG | width=20)
+![init page|512x397 30%](https://github.com/steven-steven/Sorting_Sketch/blob/master/Capture.PNG)
+![main page|512x397 30%](https://github.com/steven-steven/Sorting_Sketch/blob/master/Capture2.PNG)
 
 
